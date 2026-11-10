@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="Vitalii Bekshnev, QA Automation Engineer">
+<style>
+  svg { --fg:#1f2328; --muted:#59636e; --muted2:#818b98; --border:#d1d9e0;
+        --surface:#f6f8fa; --accent:#0969da; --ok:#1a7f37; --shadow:#0000001a; }
+  @media (prefers-color-scheme: dark) {
+    svg { --fg:#e6edf3; --muted:#9198a1; --muted2:#6e7681; --border:#3d444d;
+          --surface:#151b23; --accent:#4493f8; --ok:#3fb950; --shadow:#0000004d; }
+  }
+  text { font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
+  .n { font-weight:700; fill:var(--fg); }
+  .m { fill:var(--muted); }
+  .m2 { fill:var(--muted2); }
+  .caps { font-size:12.5px; font-weight:600; letter-spacing:2.2px; fill:var(--muted); }
+</style>
+  <rect x="0.5" y="0.5" width="999" height="189" rx="14" fill="none" stroke="var(--border)"/>
+  <text x="44" y="78" font-size="50" class="n" letter-spacing="-1.2">Vitalii Bekshnev</text>
+  <rect x="46" y="94" width="132" height="5" rx="2.5" fill="var(--accent)"/>
+  <text x="44" y="132" font-size="20" class="m">QA Automation Engineer at Gcore &#183; AI-assisted QA tooling</text>
+  <text x="44" y="159" font-size="14" class="m2">github.com/vitalii-bekshnev &#183; Python &#183; TypeScript &#183; Shell</text>
+  <rect x="636" y="96" width="64" height="34" rx="9" fill="var(--surface)" stroke="var(--border)"/><circle cx="654" cy="113" r="5" fill="var(--accent)" opacity="0.9"/><rect x="666" y="108" width="24" height="6" rx="3" fill="var(--muted2)" opacity="0.55"/><path d="M708 113 h20" stroke="var(--border)" stroke-width="2" stroke-linecap="round"/><path d="M698 109 l7 4 -7 4z" fill="var(--border)"/><rect x="736" y="96" width="64" height="34" rx="9" fill="var(--surface)" stroke="var(--border)"/><circle cx="754" cy="113" r="5" fill="var(--accent)" opacity="0.7"/><rect x="766" y="108" width="24" height="6" rx="3" fill="var(--muted2)" opacity="0.55"/><path d="M808 113 h-80" stroke="var(--border)" stroke-width="2" stroke-linecap="round"/><path d="M798 109 l7 4 -7 4z" fill="var(--border)"/><rect x="836" y="96" width="64" height="34" rx="9" fill="var(--surface)" stroke="var(--border)"/><circle cx="854" cy="113" r="5" fill="var(--accent)" opacity="0.5"/><rect x="866" y="108" width="24" height="6" rx="3" fill="var(--muted2)" opacity="0.55"/><rect x="930" y="96" width="34" height="34" rx="9" fill="var(--ok)" opacity="0.14"/><path d="M939 113 l5 5 11 -12" stroke="var(--ok)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
